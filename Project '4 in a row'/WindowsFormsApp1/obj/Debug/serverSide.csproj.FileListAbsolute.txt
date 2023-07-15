@@ -1,0 +1,72 @@
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\serverSide.csprojAssemblyReference.cache
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\serverSide.csproj.GenerateResource.cache
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\serverSide.csproj.CoreCompileInputs.cache
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LINE\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.serverForm.resources
+C:\projects\school\testServerClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\projects\school\testServerClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\projects\school\testServerClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\projects\school\testServerClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\projects\school\testServerClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.serverForm.resources
+C:\projects\school\testServerClient\WindowsFormsApp1\obj\Debug\serverSide.csproj.GenerateResource.cache
+C:\projects\school\testServerClient\WindowsFormsApp1\obj\Debug\serverSide.csproj.CoreCompileInputs.cache
+C:\projects\school\testServerClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\projects\school\testServerClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\projects\school\testServerClient\WindowsFormsApp1\obj\Debug\serverSide.csproj.AssemblyReference.cache
+F:\testServerClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\testServerClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\testServerClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\testServerClient\WindowsFormsApp1\obj\Debug\serverSide.csprojAssemblyReference.cache
+F:\testServerClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\testServerClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.serverForm.resources
+F:\testServerClient\WindowsFormsApp1\obj\Debug\serverSide.csproj.GenerateResource.cache
+F:\testServerClient\WindowsFormsApp1\obj\Debug\serverSide.csproj.CoreCompileInputs.cache
+F:\testServerClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\testServerClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\obj\Debug\serverSide.csprojAssemblyReference.cache
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.serverForm.resources
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.GenerateResource.cache
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.CoreCompileInputs.cache
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ronda\Desktop\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.AssemblyReference.cache
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.SuggestedBindingRedirects.cache
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.serverForm.resources
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.GenerateResource.cache
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.CoreCompileInputs.cache
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\student 2022\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csprojAssemblyReference.cache
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.serverForm.resources
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.GenerateResource.cache
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.CoreCompileInputs.cache
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ronda\Desktop\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.AssemblyReference.cache
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.serverForm.resources
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.GenerateResource.cache
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\obj\Debug\serverSide.csproj.CoreCompileInputs.cache
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ronda\OneDrive\שולחן העבודה\Ron Dahan-Portfolio\ron 4 in line\1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
